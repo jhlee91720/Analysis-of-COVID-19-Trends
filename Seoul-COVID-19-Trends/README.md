@@ -15,5 +15,8 @@
 * 주말보다 출퇴근 요일인 주중의 확진자 수가 더 많을 것이다.
 * 외국인 유입이 많았던 구가 확진자 수가 더 많을 것이다.
 
+## 스킬
+pandas, matplotlib, numpy
+
 ## 출처
 * 단 두 장의 문서로 데이터 분석과 시각화 뽀개기: https://www.inflearn.com/course/판다스-pandas
